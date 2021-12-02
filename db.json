@@ -1,1 +1,9 @@
-
+{
+    "users":[
+        "id":1,
+        "name": "Andry",
+        "sirname": "Tymur228",
+        "Photo_url":"https://www.meme-arsenal.com/memes/6b8986121681e9aa24bc569aa7274bfc.jpg",
+        "balance":10000000
+    ]
+}
