@@ -5,17 +5,20 @@
         "sirname": "Tymur228",
         "Photo_url":"https://www.meme-arsenal.com/memes/6b8986121681e9aa24bc569aa7274bfc.jpg",
         "balance":10000000
+        "Produks":"Г"
 
         "id":2,
         "name": "AnRETFGdry",
         "sirname": "Tymu",
         "Photo_url":"https://thumbs.dreamstime.com/z/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D0%B0-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0-c-s-cs-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80-l-%D0%BF%D0%B8%D1%81%D0%B5%D0%BC-%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B7%D0%BD%D0%B0%D1%87%D0%BA%D0%B0-112472268.jpg",
         "balance":100
+        "Produks":"Orange"
 
         "id":3,
         "name": "DFHB",
         "sirname": "FG",
         "Photo_url":"https://games.mail.ru/hotbox/content_files/news/2021/08/19/b9ab79e56eb94297ae6c613ab1f045dd.jpg",
         "balance":1
+        "Produks":"Banana"
     ]
 }
