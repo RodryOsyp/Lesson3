@@ -5,5 +5,17 @@
         "sirname": "Tymur228",
         "Photo_url":"https://www.meme-arsenal.com/memes/6b8986121681e9aa24bc569aa7274bfc.jpg",
         "balance":10000000
+
+        "id":2,
+        "name": "AnRETFGdry",
+        "sirname": "Tymu",
+        "Photo_url":"https://www.meme-arsenalc.jpg",
+        "balance":100
+
+        "id":3,
+        "name": "DFHB",
+        "sirname": "FG",
+        "Photo_url":"https://games.mail.ru/hotbox/content_files/news/2021/08/19/b9ab79e56eb94297ae6c613ab1f045dd.jpg",
+        "balance":1
     ]
 }
